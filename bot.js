@@ -96,4 +96,4 @@ async def on_message(message):
                     await mess.add_reaction(':diamonds:')
 
 
-client.run('Nzk4ODA4ODE0Mjc5MzI3NzY1.X_6arg.o-2MAEgZQrJDSFFF2bIAohseS9k')
+client.run('Nzk4ODA4ODE0Mjc5MzI3NzY1.X_6arg.juBVVJxl-2TIJvxQjpiS4FAbvbM')
