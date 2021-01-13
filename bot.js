@@ -6,7 +6,7 @@ from discord import Member, Guild
 
 client = discord.Client()
 
-antworten = ['Ja', 'Nein', 'Vielleicht', 'Sieht so aus']
+antworten = ['Ja', 'Nein', 'Vielleicht', 'Sieht so aus', 'Das kann sein', 'Mal sehen', 'Das musst du selbst heraus finden']
 
 
 @client.event
